@@ -1,2 +1,2 @@
 # ia-advbot-ibm-watson-ads
-Página utilizando o serviço IBM IA Watson
+Página utilizando o serviço IBM IA WATSON
